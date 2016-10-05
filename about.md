@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resources
+permalink: /Resources/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+#**Resources for help** 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+If any troubleshooting occurs, follow these links to improve your jumpshot 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[Click Here For Video Tutorial For Jumpshot]( https://www.youtube.com/watch?v=3lDFzBGR0PQ)
+
+[Click Here For Shooting Drills PRACTICE](https://www.youtube.com/watch?v=e_agqmC5upc) 
+
+[Click Her For Another Video Of Shooting a Jumpshot]( https://www.youtube.com/watch?v=PeSeGFAFoOs)
