@@ -1,5 +1,6 @@
 ---
 layout: page
+title:HowToShootABasketballProperl
 permalink: /HowToShootABasketballProperly/
 --- 
 
