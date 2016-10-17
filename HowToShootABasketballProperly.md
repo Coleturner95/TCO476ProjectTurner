@@ -6,6 +6,7 @@ permalink: /HowToShootABasketballProperly/
 
 #How To Shoot A Basketball Properly
 
+
 ##**STEPS**
 1. Find a comfortable shooting position
 2. [Grip the basketball]( https://thumbs.dreamstime.com/z/two-hands-holding-basketball-over-white-background-49182296.jpg) with the laces of the basketball
