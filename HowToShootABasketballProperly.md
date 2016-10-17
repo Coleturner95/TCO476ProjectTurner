@@ -33,10 +33,14 @@ permalink: /HowToShootABasketballProperly/
 
 3. At the apex of the jumpshot
 		   
-	-Push the elbow of your shooting arm
-	-Then, bend the hand
-	-Then, bend the wrist  
-	-Then, bend the fingers 
+	*Push the elbow of your shooting arm
+	
+	*Then, bend the hand
+	
+	*Then, bend the wrist  
+	
+	*Then, bend the fingers 
+	
 	*ALL IN ONE MOTION OF THE JUMPSHOT*
 
 [Representation of a Jump Shot](http://4.bp.blogspot.com/-h3LCrgcqL3Y/VX-eMqO_iiI/AAAAAAAAAAs/wldJifLs70c/s1600/curry-jump%2Bshot%2B2%2Bpaint.jpg)
