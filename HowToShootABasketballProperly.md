@@ -21,7 +21,6 @@ permalink: /HowToShootABasketballProperly/
 2. Jump
 
 	*When jumping bend your legs, bring both of your hands (with the ball) in an upward position when you're going in the up direction of the jumpshot.
-
 3. At the apex of the jumpshot
 		   
 		   *Push the elbow of your shooting arm
